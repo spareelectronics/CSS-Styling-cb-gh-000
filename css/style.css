@@ -41,6 +41,12 @@ figcaption {
 
 #logo { /* select elements with id="logo"} */
   background-color: aqua;
+}
 
+
+/* Descedent Selector */
+
+#logo h1 { */selects h1 inside logo */
+  font-family: 'clicker Script', cursive;
 
 }
