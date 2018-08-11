@@ -46,12 +46,12 @@ figcaption {
 
 /* Descedent Selector */
 
-#logo h1 { */selects h1 inside logo */
+#logo h1 { /* selects h1 inside logo */
   font-family: 'Clicker Script', cursive;
 
 }
 
-#logo h2 { */selects h1 inside logo */
+#logo h2 { /* selects h1 inside logo */
   font-family: 'Elsie', cursive;
 
 }
