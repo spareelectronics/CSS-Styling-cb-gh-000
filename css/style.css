@@ -53,5 +53,12 @@ figcaption {
 
 #logo h2 { /* selects h1 inside logo */
   font-family: 'Elsie', cursive;
+}
 
+/* psuedo Selector */
+
+#details a:link {
+color: black;
+text-decoration: none;
+  
 }
